@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, nice to see you.</h1>
+
+<p>Welcome to my newby page! </br> I'm Ems, newbie developer from <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2Fhwhoiob_glossy-round-icon-el-salvador-flag-icon-hd%2F&psig=AOvVaw035x6o0_rSAqgc-O4JB1Ue&ust=1600782417604000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODF666x-usCFQAAAAAdAAAAABAD" width="13"/> <b>La Union, El Salvador</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Charlerio, Belgium</b>. </p>
+
+
+
+
 
 <!--
 **emelysalmeron/emelysalmeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
