@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning how to become a **great web developer** and Im also learning **French language** <img src="https://www.flaticon.com/svg/static/icons/svg/3187/3187459.svg" width="30">
 - 🤔 I’m looking for help with everything relate it to code and also french language. **_Any type of tip will be super useful!._** :star:
-- My current mood is: **jumping into the unknonw could be also fun**
+- My current mood is: **jumping into the unknown could be also fun**
 <p align="center">
   <img width="250" src="https://media0.giphy.com/media/1n8D4lLgVkSGFm2N3z/giphy.gif?cid=ecf05e47juvhjonmbwh3ji8tw0y9jpl05glya0jw3nugnygf&rid=giphy.gif">
 </p>
