@@ -14,7 +14,7 @@
 - 📫 How to reach me: 
 <p align="left">
   <a href="https://twitter.com/EmsSalmeron"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" width="45" alt="twitterlogo"/></a>
-  <a href="www.linkedin.com/in/emely-salmeron"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="45" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/emely-salmeron/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="45" alt="linkedin"/></a>
 </p>
 <!--
 **emelysalmeron/emelysalmeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
