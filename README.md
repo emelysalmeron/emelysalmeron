@@ -10,6 +10,7 @@
   <img width="250" src="https://media0.giphy.com/media/1n8D4lLgVkSGFm2N3z/giphy.gif?cid=ecf05e47juvhjonmbwh3ji8tw0y9jpl05glya0jw3nugnygf&rid=giphy.gif">
 </p>
  
+ [![My GitHub stats ](https://github-readme-stats.vercel.app/api?username=emelysalmeron&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: 
 <p align="left">
